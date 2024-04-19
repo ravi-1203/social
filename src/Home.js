@@ -53,6 +53,7 @@ export default function Home() {
       <button onClick={handleLinkedInShare}>Share via LinkedIn</button>
       <button onClick={handleWhatsAppShare}>Share via WhatsApp</button>
       <button onClick={handleTwitterShare}>Share via Twitter</button>
+      <div>only commit</div>
     </>
   );
 }
